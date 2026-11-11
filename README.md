@@ -10,7 +10,7 @@ Aplicación web hecha con [Reflex](https://reflex.dev) para analizar **speed tie
 ## Instalación y ejecución
 
 ```bash
-git clone https://github.com/TU_USUARIO/speed-champions.git
+git clone https://github.com/Z3gga/speed-pokemon-champions-MB.git
 cd speed-champions
 
 python -m venv .venv
