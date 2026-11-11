@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+
+# Reflex (se generan solos)
+.web/
+.states/
+reflex.lock/
+assets/external/
+
+# Entorno / SO
+.env
+.DS_Store
+Thumbs.db
